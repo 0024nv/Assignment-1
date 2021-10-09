@@ -18,6 +18,6 @@ int main(){
         scanf("%d",A+q);
         printf("%d\n",A[q]);
     }
-    display(A,3,0);
+    display(A,1,0);
     return 0;
 }
